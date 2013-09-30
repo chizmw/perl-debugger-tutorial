@@ -1,0 +1,2 @@
+# ignore (common) vim swap files
+*\.sw?
