@@ -14,7 +14,7 @@ program terminated' message.
 ## Stopping to investigate
 
 Let's assume that some educated intuition has made us interested in the
-`tandom_int()` sub.
+`random_int()` sub.
 
     b random_int
     R
