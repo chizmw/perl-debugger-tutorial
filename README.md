@@ -3,7 +3,7 @@
 Over a series of exercises you will learn how to use the Perl debugger.
 
 You should try to work through the lessons in order. Even if you don't perform
-all the exercises you should read the lesson's README.mkd file.
+all the exercises you should read the lesson's README.md file.
 
 # Preparation
 
