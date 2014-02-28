@@ -14,7 +14,7 @@ Step through the script (with `n`) until you see:
     main::(variables.pl:8): print "stop pressing 'n' or 'ENTER' now\n";
       DB<1> 
 
-You can now examine the variables that have been decalred in the script. Try
+You can now examine the variables that have been declared in the script. Try
 these commands in the debugger:
 
  * `p $string`

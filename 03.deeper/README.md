@@ -11,7 +11,7 @@ Run the script in the debugger
 Step through the script (with `n`) until you see the 'quit debugger message'.
 
 This is the quickest way to progress through a script. It's also, often, the
-least-useful and least-informative.
+least useful and least informative.
 
 ## Stopping to smell the flowers
 

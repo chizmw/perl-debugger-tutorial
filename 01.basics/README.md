@@ -108,9 +108,9 @@ being explicitly told to.
 
 When stepping through more than one line in a script you will usually be given
 some indication when to stop. Don't expect to be told 'step through 5 lines'
-or 'press "n" and "enter"'.
+or 'press "n" and "ENTER"'.
 
 You will be told when to quit the debugger. Some lessons will have longer code
 samples to be worked through in stages.
-The only exception to this is at the end of each lesson where's it's assumed
+The only exception to this is at the end of each lesson where it's assumed
 you'll quit the debugger before moving on to the next lesson.

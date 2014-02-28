@@ -88,7 +88,7 @@ Finally, let's remove one breakpoint:
     B 13
     L
 
-We could have used `B *` to delete all one breakpoints, but this is an easy
+We could have used `B *` to delete all breakpoints, but this is an easy
 way to wind down this lesson.
 
 # Lesson Summary
