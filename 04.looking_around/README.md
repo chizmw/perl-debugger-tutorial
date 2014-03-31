@@ -104,3 +104,5 @@ Notice that examining a subroutine in another file switches you to that file.
 * `v [line]` - view around line
 * `.` - list current line
 * `f [file]` - view source in a file
+
+[Next lesson - 05. Working with breakpoints](https://github.com/NET-A-PORTER/perl-debugger-tutorial/blob/master/05.breakpoints/README.md)

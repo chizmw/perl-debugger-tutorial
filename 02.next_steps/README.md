@@ -48,3 +48,6 @@ that have not been defined.
 
 * `x` - examine a variable
 * `p` - print the value of a variable
+
+[Next lesson - 03. Digging Deeper](https://github.com/NET-A-PORTER/perl-debugger-tutorial/blob/master/03.deeper/README.md)
+
