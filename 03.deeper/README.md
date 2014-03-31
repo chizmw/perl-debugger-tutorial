@@ -86,4 +86,4 @@ With the commands you've learned so far you will be surprised how much
 debugging is possible. `n`, `s`, `r`, `x`, `p`, `c`, `R` and `q` will enable
 you to step through most scripts and modules.
 
-
+[Next lesson - 04. Looking Around](https://github.com/NET-A-PORTER/perl-debugger-tutorial/blob/master/04.looking_around/README.md)

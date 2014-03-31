@@ -114,3 +114,5 @@ You will be told when to quit the debugger. Some lessons will have longer code
 samples to be worked through in stages.
 The only exception to this is at the end of each lesson where it's assumed
 you'll quit the debugger before moving on to the next lesson.
+
+[Next lesson - 02. Your Next Steps](https://github.com/NET-A-PORTER/perl-debugger-tutorial/blob/master/02.next_steps/README.md)
